@@ -38,6 +38,7 @@ vulnerability information is provided
 #USE CASE 2
 
 ##Title:
-Selecting Software to Scan
+Upload Software to Scan
 
 ###: Primary Actor:
+Developer
