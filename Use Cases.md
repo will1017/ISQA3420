@@ -1,4 +1,4 @@
-#USE CASE #!
+#USE CASE 1
 
 ##Title: Determine License and Vulnerability Information 
 
@@ -35,7 +35,7 @@ vulnerability information for the requested project packages
 Corporate manager uploads or identifies project information to which license and 
 vulnerability information is provided
 
-#USE CASE #2
+#USE CASE 2
 
 ##Title:
 Selecting Software to Scan
