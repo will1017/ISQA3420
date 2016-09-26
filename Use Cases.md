@@ -40,5 +40,22 @@ vulnerability information is provided
 ##Title:
 Upload Software to Scan
 
-###: Primary Actor:
+### Primary Actor:
 Developer
+
+###Goal in Context:
+Upload software packages in order to scan for licenses
+
+###Stakeholders:
+
+
+###Preconditions:
+
+
+###Main Success Scenario:
+Software uploaded to scanning software & results returned to developer
+
+###Failed End Conditions:
+Software failed to upload, scanning software unable to process package
+
+###Trigger:
