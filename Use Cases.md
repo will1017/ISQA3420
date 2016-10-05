@@ -37,8 +37,7 @@ vulnerability information is provided
 
 #USE CASE 2
 
-##Title:
-Upload Software to Scan
+##Title: Upload Software to Scan
 
 ### Primary Actor:
 Developer
