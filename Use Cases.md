@@ -76,8 +76,7 @@ Devloper has package to be uploaded
 
 #USE CASE 3
 
-##Title: 
-Developer checks system to see if software has already been uploaded/scanned
+##Title: Developer checks system to see if software has already been uploaded/scanned
 
 ###Primary Actor:
 Developer
