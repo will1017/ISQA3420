@@ -43,7 +43,7 @@ vulnerability information is provided
 Developer
 
 ###Goal in Context:
-Upload software packages in order to scan for licenses
+Upload software packages in order to scan for licenses and vulnerabilities
 
 ###Stakeholders:
 
@@ -55,15 +55,15 @@ Project Owner: To clearly understand corporate manager decisions to green/red li
 
 ###Preconditions:
 
-Correct Information Provided
+Correct Information Provided (Detail needed -- what type of information?)
 
-Upload Successful
+Upload Successful -- of package? 
 
-Scanner Operational
+Scanner Operational -- scanner of what?? You need to be a bit more explicit in these preconditions. 
 
 ###Main Success Scenario:
 
-Software uploaded to scanning software & results returned to developer
+Software uploaded to scanning software & results returned to developer (don't forget about vulnerabilities)
 
 ###Failed End Conditions:
 
@@ -75,7 +75,7 @@ Devloper has package to be uploaded
 
 #USE CASE 3
 
-##Title: Developer checks system to see if software has already been uploaded/scanned
+##Title: Developer checks system to see if software has already been uploaded/scanned (This use case is not currently supported in your DFD. Below you are talking about policy. Is this a policy use case or one about checking to see if software has been scanned? This isn't clear). 
 
 ###Primary Actor:
 Developer
