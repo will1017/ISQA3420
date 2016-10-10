@@ -89,14 +89,19 @@ Developer: To provide the policy information to determine if it a policy that ex
 ###Preconditions:
 
 Policy information complete
-Policy datastore is accessable
+
+Policy datastore is accessible
 
 ###Main Success Scenario:
+
 Relevant policy information retrieved
 
 ###Failed End Conditions:
+
 Datastore fails to return results
+
 Policy does not exist
 
 ###Trigger:
+
 Developer submits a policy to check if it exists in the system
