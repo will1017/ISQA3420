@@ -1,6 +1,5 @@
+#Executive Summary
 
-'software package NAME' goes to NIST
-manager add/modify policy
-seperate dictionary terms by type
-plurals in dictionary are different
-exec sum: "this system is intended to.."/how it works
+  This data flow diagram was designed and created to outline the flow of data in a system which primarily deals with scanning software for license and vulnerability information and the policies relating to that practice.  When a developer acquires a new software package, using this system they are able to upload it to a software scanning program which both scans for extant license information and checks an online database which would list known potential vulnerabilities. There are five unique processes which interact variably with three unique data stores.
+
+  There are two primary actors, a developer and a manager, who are both able to access results of software scans and policy information.  The developer is uniquely able to submit software packages to be scanned for license and vulnerability information. The manager is able to view results of these scans, but is not able to submit or modify packages. The manager is able to add policies, modify policies or check to see if a policy relating to license and vulnerability management exists, whereas a developer can only check to see if a policy exists. Most data request and submissions result in returned relevant data, after being checked against one of three data stores.
