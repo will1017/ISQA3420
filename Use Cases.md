@@ -55,15 +55,15 @@ Project Owner: To clearly understand corporate manager decisions to green/red li
 
 ###Preconditions:
 
-Correct Information Provided (Detail needed -- what type of information?)
+Correct project information provided
 
-Upload Successful -- of package? 
+Project package upload successful
 
-Scanner Operational -- scanner of what?? You need to be a bit more explicit in these preconditions. 
+License Scanner program Operational
 
 ###Main Success Scenario:
 
-Software uploaded to scanning software & results returned to developer (don't forget about vulnerabilities)
+Software uploaded to scanning software to determine license & vulnerability information & results returned to developer
 
 ###Failed End Conditions:
 
@@ -75,7 +75,7 @@ Devloper has package to be uploaded
 
 #USE CASE 3
 
-##Title: Developer checks system to see if software has already been uploaded/scanned (This use case is not currently supported in your DFD. Below you are talking about policy. Is this a policy use case or one about checking to see if software has been scanned? This isn't clear). 
+##Title: Developer checks system to see if policy exists
 
 ###Primary Actor:
 Developer
